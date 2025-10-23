@@ -12,3 +12,5 @@ VCS -
 
 
     add anything
+    C:\delete\Oct 25 Git
+    C:\delete\Oct 25 Git
